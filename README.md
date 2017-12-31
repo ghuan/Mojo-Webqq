@@ -4,4 +4,4 @@
 </br>
 ### 安装
 Smartqq客户端只需双击start_mojo_webqq.bat或者start_mojo_weixin.bat批处理即可启动一个客户端。
-![image](https://github.com/ghuan/springmvc/tree/master/WebContent/images/1.png)
+![image](https://github.com/ghuan/springmvc/blob/master/WebContent/images/1.png)
