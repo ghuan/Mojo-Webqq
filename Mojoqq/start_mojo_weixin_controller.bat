@@ -19,7 +19,7 @@ if not #%1# == ## "%drivep%\perl\bin\perl.exe" %* & goto END
 
 echo ----------------------------------------------
 echo  Welcome to Mojo-Strawberry Perl !
-echo  * URL - https://github.com/sjdy521/Mojo-StrawberryPerl
+echo  * URL - https://github.com/ghuan/Mojo-webqq-for-windows
 echo  * see README.TXT for more info
 echo ----------------------------------------------
 perl -MConfig -e "printf("""Perl executable: %%s\nPerl version   : %%vd / $Config{archname}\n""", $^X, $^V)" 2>nul
