@@ -27,3 +27,5 @@
 ### SmartQQ Client
 Smartqq客户端只需双击此项目中start_mojo_webqq.bat或者start_mojo_weixin.bat批处理即可启动一个客户端。
 ![image](https://github.com/ghuan/springmvc/blob/master/WebContent/images/1.png)
+### IRC Client
+[IRC Client download](http://www.ircreviews.org/clients/) 请自行选择对应操作系统下载
