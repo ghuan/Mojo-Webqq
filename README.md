@@ -30,5 +30,19 @@ Smartqq客户端只需双击此项目中start_mojo_webqq.bat或者start_mojo_wei
 ### IRC Client
 [IRC Client download](http://www.ircreviews.org/clients/) 请自行选择对应操作系统下载。
 </br>
-我使用的是irssi，windows操作系统下载cygwin，安装时加载irssi package。
-![image](https://github.com/ghuan/springmvc/blob/master/WebContent/images/2.png)
+我使用的是irssi，windows操作系统下载cygwin</br>
+![image](https://github.com/ghuan/springmvc/blob/master/WebContent/images/2.png)</br>
+安装时加载irssi package。</br>
+![image](https://github.com/ghuan/springmvc/blob/master/WebContent/images/3.png)</br>
+### 建立IRC服务端
+启动cygwin 键入命令 irssi -c 127.0.0.1 -p 6667</br>
+IRC客户端常用操作命令
+
+/nick 你的QQ昵称               #设置irc的昵称，建议和自己的QQ昵称相同</br>
+/list -yes                    #列出自己加入的QQ群</br>
+/query 对方qq昵称或群名称       #建立一个一对一私聊窗口</br>
+[更多IRC命令](http://wiki.ubuntu.org.cn/IRC%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4%E8%AF%B4%E6%98%8E)</br>
+
+### 效果图
+
+![image](https://github.com/ghuan/springmvc/blob/master/WebContent/images/4.png)</br>
